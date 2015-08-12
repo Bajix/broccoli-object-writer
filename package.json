@@ -1,0 +1,35 @@
+{
+  "name": "broccoli-object-writer",
+  "version": "0.0.0",
+  "description": "A Broccoli plugin for writing JSON & UMD modules from JS Objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bajix/broccoli-object-writer.git"
+  },
+  "keywords": [
+    "Broccoli",
+    "JSON",
+    "UMD"
+  ],
+  "author": "Thomas Sieverding (Thomas@bajix.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bajix/broccoli-object-writer/issues"
+  },
+  "homepage": "https://github.com/Bajix/broccoli-object-writer#readme",
+  "devDependencies": {
+    "broccoli": "^0.16.5",
+    "chai": "^3.2.0",
+    "faker": "^3.0.1",
+    "mocha": "^2.2.5"
+  },
+  "dependencies": {
+    "broccoli-writer": "^0.1.1",
+    "q": "^1.4.1",
+    "umd-wrap": "^0.1.1"
+  }
+}
