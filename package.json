@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/Bajix/broccoli-object-writer#readme",
   "devDependencies": {
-    "broccoli": "^0.16.5",
-    "chai": "^3.2.0",
+    "broccoli": "^0.16.9",
+    "chai": "^3.4.1",
     "faker": "^3.0.1",
-    "mocha": "^2.2.5"
+    "mocha": "^2.3.4"
   },
   "dependencies": {
     "broccoli-writer": "^0.1.1",
