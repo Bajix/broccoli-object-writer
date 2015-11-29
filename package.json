@@ -1,6 +1,6 @@
 {
   "name": "broccoli-object-writer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Broccoli plugin for writing JSON & UMD modules from JS Objects",
   "main": "index.js",
   "scripts": {
